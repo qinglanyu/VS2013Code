@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Demo", "Demo\Demo.vcxproj", "{94675C97-FA96-4BD1-9A07-3DC3AC130984}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CompoundTypeProj", "..\Chapter-04 Compound Types\CompoundTypesProject\CompoundTypeProj\CompoundTypeProj.vcxproj", "{7CEE6340-BEFC-4671-B7B4-B9E51EC80EE1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ObjsProj", "..\Chapter-07 Obj Initial Copy And Destroy\ObjsProj\ObjsProj.vcxproj", "{F790F6A7-2596-4DF9-A8EC-34C00BA6A5B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94675C97-FA96-4BD1-9A07-3DC3AC130984}.Debug|Win32.ActiveCfg = Debug|Win32
+		{94675C97-FA96-4BD1-9A07-3DC3AC130984}.Debug|Win32.Build.0 = Debug|Win32
+		{94675C97-FA96-4BD1-9A07-3DC3AC130984}.Release|Win32.ActiveCfg = Release|Win32
+		{94675C97-FA96-4BD1-9A07-3DC3AC130984}.Release|Win32.Build.0 = Release|Win32
+		{7CEE6340-BEFC-4671-B7B4-B9E51EC80EE1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7CEE6340-BEFC-4671-B7B4-B9E51EC80EE1}.Debug|Win32.Build.0 = Debug|Win32
+		{7CEE6340-BEFC-4671-B7B4-B9E51EC80EE1}.Release|Win32.ActiveCfg = Release|Win32
+		{7CEE6340-BEFC-4671-B7B4-B9E51EC80EE1}.Release|Win32.Build.0 = Release|Win32
+		{F790F6A7-2596-4DF9-A8EC-34C00BA6A5B1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F790F6A7-2596-4DF9-A8EC-34C00BA6A5B1}.Debug|Win32.Build.0 = Debug|Win32
+		{F790F6A7-2596-4DF9-A8EC-34C00BA6A5B1}.Release|Win32.ActiveCfg = Release|Win32
+		{F790F6A7-2596-4DF9-A8EC-34C00BA6A5B1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
